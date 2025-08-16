@@ -48,6 +48,15 @@ I am a bioinformatics senior undergraduate student at the Lebanese American Univ
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PlasmidFinder](https://img.shields.io/badge/PlasmidFinder-FF6F00?style=flat)
+![iTOL](https://img.shields.io/badge/iTOL-4E79A7?style=flat)
+![MUSCLE](https://img.shields.io/badge/MUSCLE-3776AB?style=flat)
+![MAFFT](https://img.shields.io/badge/MAFFT-FF69B4?style=flat)
+![MEGA](https://img.shields.io/badge/MEGA-2E8B57?style=flat)
+![RAxML](https://img.shields.io/badge/RAxML-6A5ACD?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![MOB-suite](https://img.shields.io/badge/MOB--suite-FFD700?style=flat)
 
 ---
 
