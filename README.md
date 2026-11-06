@@ -1,6 +1,5 @@
 <h1 align="center">
-  HI. My name is Sami and
-  I love Bioinformatics, Music, and Sports</h1>
+  HI. My name is Sami</h1>
 
 <p align="center">
   <a href="https://github.com/Sami482005">
