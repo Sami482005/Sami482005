@@ -17,49 +17,48 @@
 
 ---
 
-I am a bioinformatics senior undergraduate student at the Lebanese American University
+# Hi, I'm Sami 👋
 
-- Improving my coding skills in R  
-- I am very passionate about neuroscience and pharmacology and aim to make it my career
-- I am very excited to learn about machine learning and deep learning models
-- I like going to the gym and listening to audiobooks  
+**PhD student in Pharmacology & Toxicology at the University of Toronto**, working on computational drug discovery in the [Schapira Lab](https://www.thesgc.org/) at the Structural Genomics Consortium.
 
----
-
-### Bioinformatics interests:
-`Computer-aided drug development` `Gene editing` `Pharmacogenomics` `Neuroinformatics` 
-
-### Technical:
-**Python packaging**, **Bash pipelines**, 
+I build software and HPC pipelines that help find small molecules for protein targets: docking, similarity search, conformer generation, and quantum and molecular mechanics scoring, run at the scale of hundreds of millions of molecules.
 
 ---
 
-### 🛠 Tools & Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Conda](https://img.shields.io/badge/conda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![BioPython](https://img.shields.io/badge/BioPython-FFD343?style=flat&logo=python&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PlasmidFinder](https://img.shields.io/badge/PlasmidFinder-FF6F00?style=flat)
-![iTOL](https://img.shields.io/badge/iTOL-4E79A7?style=flat)
-![MUSCLE](https://img.shields.io/badge/MUSCLE-3776AB?style=flat)
-![MAFFT](https://img.shields.io/badge/MAFFT-FF69B4?style=flat)
-![MEGA](https://img.shields.io/badge/MEGA-2E8B57?style=flat)
-![RAxML](https://img.shields.io/badge/RAxML-6A5ACD?style=flat)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![MOB-suite](https://img.shields.io/badge/MOB--suite-FFD700?style=flat)
+## 🔬 What I work on
+
+- **Ultra-large virtual screening.** Docking campaigns with GNINA, run as SLURM job arrays across thousands of batches on Canada's Alliance clusters.
+- **Molecular similarity search at scale.** A GPU-accelerated embedding and indexing pipeline (FAISS + Lance) over a library of **100 quadrillion+ molecules** for the [Pan-Canadian Chemical Library](https://www.thesgc.org/) / [Target 2035](https://www.target2035.net/) effort.
+- **Structure-based receptor evaluation.** SQM/MM receptor ranking and AlphaFold 3 protein–ligand complex evaluation, with Snakemake-driven parameterization workflows.
+- **Docking post-processing and QC.** Ligand minimization and structure preparation with OpenMM (ff19SB / GAFF), and preparing inputs for ML potentials like AIMNet2.
+- **Conformer generation.** Reproducible pipelines built on RDKit, Open Babel and Auto3D.
+
+## 🧰 Toolbox
+
+**Languages:** Python · Bash
+**Cheminformatics & modeling:** RDKit · Open Babel · GNINA · AutoDock Vina · OpenMM · AIMNet2 · AlphaFold 3 · Auto3D
+**ML & data:** PyTorch (CUDA) · FAISS · Lance
+**Infrastructure:** Linux · SLURM · HPC (Narval / Digital Research Alliance of Canada) · NVIDIA H100 · Snakemake · Conda · Pixi · VS Code Remote-SSH
+
+## 📚 Past projects
+
+- **Unclassified *Klebsiella pneumoniae* plasmids** (2024–2026): a bioinformatics investigation of previously uncharacterized plasmids.
+- **MAO-B docking capstone** (2025–2026): docking anti-epileptic compounds against monoamine oxidase B with AutoDock Vina.
+
+## 🎓 Background
+
+- **PhD, Pharmacology & Toxicology**, University of Toronto (2026–present)
+- **BSc, Bioinformatics**, Lebanese American University (2023–2026), graduated with high distinction
+
+## 🌱 Interests
+
+Computational chemistry · ML for chemistry · structural biology · molecular simulation · building tools for scientists · computational pharmacogenomics
+
+I'm happiest when I understand *why* something works, not just that it does.
+
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=Sami482005&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sami482005&show_icons=true&theme=dark)  
+📫 **Reach me:** [Email](mailto:sami.saliby@mail.utoronto.ca) · [LinkedIn](https://www.linkedin.com/in/samisaliby) · [Google Scholar](https://scholar.google.com/)
+ 
 
