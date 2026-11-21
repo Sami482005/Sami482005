@@ -1,22 +1,3 @@
-<h1 align="center">
-  HI. My name is Sami</h1>
-
-<p align="center">
-  <a href="https://github.com/Sami482005">
-    <img src="https://img.shields.io/badge/FOLLOW-15-blue?style=flat&logo=github" />
-  </a>
-  <a href="https://github.com/Sami482005?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-pink?style=flat" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sami-saliby-25a278274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sami.saliby@lau.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
 # Hi, I'm Sami 👋
 
 **PhD student in Pharmacology & Toxicology at the University of Toronto**, working on computational drug discovery in the [Schapira Lab](https://www.thesgc.org/) at the Structural Genomics Consortium.
@@ -57,8 +38,21 @@ Computational chemistry · ML for chemistry · structural biology · molecular s
 I'm happiest when I understand *why* something works, not just that it does.
 
 
----
+ <h1 align="center">
 
-📫 **Reach me:** [Email](mailto:sami.saliby@mail.utoronto.ca) · [LinkedIn](https://www.linkedin.com/in/samisaliby) · [Google Scholar](https://scholar.google.com/)
- 
+<p align="center">
+  <a href="https://github.com/Sami482005">
+    <img src="https://img.shields.io/badge/FOLLOW-15-blue?style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/Sami482005?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-pink?style=flat" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sami-saliby-25a278274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sami.saliby@lau.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 
